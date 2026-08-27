@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL: ](https://github.com/msalim-dev/rest-countries-frontendmentor-challenge)
-- [Live Site URL: ](https://musical-cucurucho-99530d.netlify.app/)
+- [Solution URL ](https://github.com/msalim-dev/rest-countries-frontendmentor-challenge)
+- [Live Site URL ](https://musical-cucurucho-99530d.netlify.app/)
 
 ## My process
 
