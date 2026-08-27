@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@theme {
+    --color-gray-900: hsl(0deg 0% 100%);
+    --color-gray-950: hsl(0deg 0% 98.04%);
+    --color-grey-950: hsl(200, 15%, 8%);
+    --color-grey-400: hsl(0, 0%, 50%);
+    --color-grey-50: hsl(0, 0%, 99%);
+    --color-base-text: hsl(0, 0, 100%);
+    --font-sans: "Nunito Sans", sans-serif;
+}
+
+:root.dark {
+    --color-gray-900: hsl(209, 23%, 22%);
+    --color-gray-950: hsl(207, 26%, 17%);
+    --color-grey-950: hsl(200, 15%, 8%);
+    --color-grey-400: hsl(0, 0%, 50%);
+    --color-grey-50: hsl(0, 0%, 99%);
+    --color-base-text: hsl(0, 100%, 100%);
+}
